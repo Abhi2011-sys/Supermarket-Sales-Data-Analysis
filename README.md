@@ -10,5 +10,7 @@ Libraries used
 numpy #linear algebra
 pandas # data processing, CSV file I/O (e.g. pd.read_csv)
 seaborn & matplotlib #data plotting
+
 Purpose
+
 This dataset can be used for predictive data analytics purpose.
